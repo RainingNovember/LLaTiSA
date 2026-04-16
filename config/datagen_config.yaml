@@ -1,0 +1,38 @@
+# ===============================Please edit the following part=============================
+
+# Output dir of the generated datasets
+data_output_dir: "./"
+# ===============================Please edit the above part=================================
+
+
+# ===================================Optional Config========================================
+# Encoding Method: no (no proprocessing and encoding, do not change this) (default: no)
+encoding_method: "no"
+
+# Sequence length of the generated time series (set to null for random length) (default: 256)
+# Note: In ChatTS, we should generate datasets with both 256 seq length and random seq lengths for adaptation to time series with different lengths.
+seq_len: 512
+
+# Num of data to generate
+num_data_template_qa: 20000
+num_data_llm_qa: 15000
+num_data_ift: 10000
+num_data_tsevol: 8000
+
+# Whether to disable extreme lengths (<64, >1024) (default: false)
+disable_extreme_lengths: false
+
+# Disable config of attributes from metrics (default: false)
+disable_metric_config: false
+
+# Whether to output the error information in ts_generator (default: false)
+local_change_verbose: false
+
+# Just use the default settings below
+enable_drop_prompt: false
+enable_multiple_trend: true
+enable_multiple_seasonal: false
+enable_multiple_noise: false
+
+# Set to true for debug usage only (default: false)
+dryrun: false

@@ -1,0 +1,12 @@
+ numpy
+scipy
+pandas
+loguru
+flash-attn
+PyWavelets
+matplotlib
+tqdm
+sktime
+PyYAML
+json-repair
+timm
