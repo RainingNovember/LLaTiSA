@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2604.17295-FF6B6B.svg)]([https://arxiv.org/abs/2504.XXXXX](https://arxiv.org/abs/2604.17295))
 
 
-This is the official repository of ACL 2026 Findings paper: "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics".
+This is the official repository of the ACL 2026 Findings paper: "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics".
 
 ## Overview
 
@@ -15,9 +15,9 @@ This is the official repository of ACL 2026 Findings paper: "LLaTiSA: Towards Di
 
 ## Key Contributions
 
-1. **Difficulty-Stratifed Dataset**: A comprehensive multimodal time series understanding dataset with three levels of complexity
-2. **Multi-modal Reasoning**: Combines visual perception (plots, numeric grids) with natural language instructions
-3. **Comprehensive Evaluation**: Benchmarks across multiple time series reasoning tasks
+1. **Difficulty-Stratifed Dataset**: A comprehensive multimodal time series understanding dataset with three levels of complexity;
+2. **Multi-modal Reasoning**: Combines visual perception (plots, numeric grids) with natural language instructions for advanced time series reasoning;
+3. **Comprehensive Evaluation**: Benchmarks across multiple reasoning tasks and different time series encoding strategies.
 
 <p align="center">
 <img src="./Figs/fig_2.png" alt="" align=center />
