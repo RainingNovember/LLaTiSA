@@ -1,7 +1,7 @@
 # LLaTiSA
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E.svg)](https://huggingface.co/datasets/November-Rain/HiTSR)
-[![arXiv](https://img.shields.io/badge/arXiv-2604.17295-FF6B6B.svg)]([https://arxiv.org/abs/2604.17295](https://arxiv.org/abs/2604.17295))
+[![arXiv](https://img.shields.io/badge/arXiv-2604.17295-FF6B6B.svg)](https://arxiv.org/abs/2604.17295)
 
 
 This is the official repository of the ACL 2026 Findings paper: "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics".
